@@ -1,3 +1,13 @@
+:root {
+  --main-dark-color: #533864;
+  --second-color: rgb(179, 221, 79);
+  --main-light-color: #eeedee;
+  --third-color: white;
+  /* --text-size: 100%;
+  --text-color: inherit; */
+  --background-color-navbar: rgb(236, 223, 244);
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,3 +21,4 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
